@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+my-app/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── App.js
+│   ├── App.css
+│   ├── Header.js
+│   ├── Content.js
+│   ├── Content.css
+│   ├── logo.png
+│   └── index.js
+└── package.json
